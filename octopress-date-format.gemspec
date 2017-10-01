@@ -18,7 +18,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_runtime_dependency 'octopress-hooks', '~> 2.0'
-  spec.add_runtime_dependency 'jekyll', '~> 2.0'
+  spec.add_runtime_dependency 'jekyll', '~> 3'
 
   spec.add_development_dependency 'clash', '~> 1.0'
   spec.add_development_dependency "rake"
